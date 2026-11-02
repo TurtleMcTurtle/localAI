@@ -18,7 +18,7 @@
     "vitest": "^4.0.18"
   },
   "dependencies": {
-    "@ankimcp/anki-mcp-server": "^0.13.1"
+    "@ankimcp/anki-mcp-server": "^0.27.0"
   },
   "overrides": {
     "flatted": "^3.4.2"
